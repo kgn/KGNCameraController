@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = 'KGNCameraController'
-  spec.version = '0.0.1'
+  spec.version = '0.0.2'
   spec.authors = {'David Keegan' => 'git@davidkeegan.com'}
   spec.homepage = 'https://github.com/kgn/KGNCameraController'
   spec.summary = 'A camera view build on top of AVFoundation'
